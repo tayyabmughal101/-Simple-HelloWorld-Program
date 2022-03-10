@@ -1,2 +1,3 @@
-# -Simple-HelloWorld-Program
-Simple HelloWorld Program in Java .
+#simple java program
+
+Use Netbeans IDE 13
